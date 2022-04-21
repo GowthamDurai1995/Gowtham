@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32210" started-at="2022-04-17T15:41:50Z" finished-at="2022-04-17T15:42:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32210" started-at="2022-04-17T15:41:50Z" finished-at="2022-04-17T15:42:22Z">
+      <class name="org.dtprovider.Facebook">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc1" is-config="true" duration-ms="6268" started-at="2022-04-17T15:41:50Z" finished-at="2022-04-17T15:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc2" duration-ms="208" started-at="2022-04-17T15:41:56Z" data-provider="sampleData" finished-at="2022-04-17T15:41:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc3" is-config="true" duration-ms="4188" started-at="2022-04-17T15:41:56Z" finished-at="2022-04-17T15:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc1" is-config="true" duration-ms="4102" started-at="2022-04-17T15:42:00Z" finished-at="2022-04-17T15:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc2" duration-ms="202" started-at="2022-04-17T15:42:05Z" data-provider="sampleData" finished-at="2022-04-17T15:42:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc3" is-config="true" duration-ms="4160" started-at="2022-04-17T15:42:05Z" finished-at="2022-04-17T15:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc1" is-config="true" duration-ms="4207" started-at="2022-04-17T15:42:09Z" finished-at="2022-04-17T15:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc2" duration-ms="191" started-at="2022-04-17T15:42:13Z" data-provider="sampleData" finished-at="2022-04-17T15:42:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc3" is-config="true" duration-ms="4156" started-at="2022-04-17T15:42:13Z" finished-at="2022-04-17T15:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc1" is-config="true" duration-ms="4094" started-at="2022-04-17T15:42:17Z" finished-at="2022-04-17T15:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc2" duration-ms="196" started-at="2022-04-17T15:42:22Z" data-provider="sampleData" finished-at="2022-04-17T15:42:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test012]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.dtprovider.Facebook@6b09bb57]" name="tc3" is-config="true" duration-ms="168" started-at="2022-04-17T15:42:22Z" finished-at="2022-04-17T15:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.dtprovider.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
